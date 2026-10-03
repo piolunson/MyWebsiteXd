@@ -1,8 +1,0 @@
-{
-  "functions": {
-    "api/index.js": { "includeFiles": "variants/**" }
-  },
-  "rewrites": [
-    { "source": "/", "destination": "/api/index" }
-  ]
-}
